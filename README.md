@@ -9,7 +9,15 @@
 FSSAI AI Assistant is a responsive web application that showcases the concept of an AI-powered assistant for the Food Safety and Standards Authority of India (FSSAI). The platform is designed to provide an intuitive conversational interface where users can ask food safety and regulatory questions in natural language.
 
 The current version focuses on delivering a clean and interactive frontend experience while demonstrating the overall workflow of the proposed solution.
+## 🖥️ Complete Project Workflow
 
+The diagram below shows the complete workflow of the FSSAI AI Assistant.
+
+<p align="center">
+  <a href="assets/fssai-demo.png">
+    <img src="assets/fssai-demo.png" alt="FSSAI AI Assistant Workflow" width="100%">
+  </a>
+</p>
 ---
 
 ## 🚧 Project Status
